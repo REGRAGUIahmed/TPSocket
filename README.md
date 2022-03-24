@@ -26,8 +26,8 @@
 ![image](https://user-images.githubusercontent.com/102111459/159916239-049e24e0-dfbc-4bb2-bce8-b16d13106c59.png)
 # App Serveur JEU
 #### Côté Serveur 
-![image](https://user-images.githubusercontent.com/102111459/159930707-7310baf0-455b-4d75-a0df-a9fc1a794539.png)
+![image](https://user-images.githubusercontent.com/102111459/160007529-8d720367-15fe-4963-901f-3cf961c96575.png)
 #### Côté Client 1 
-![image](https://user-images.githubusercontent.com/102111459/159931168-8d5e7393-ef2c-4f0f-85c6-aac6588e0d71.png)
+![image](https://user-images.githubusercontent.com/102111459/160007592-a957ec27-e67c-4192-8c3f-d6608cc009d6.png)
 #### Côté Client 2  
-![image](https://user-images.githubusercontent.com/102111459/159930946-a6c2ad6b-0f01-40c9-af2e-99225abfc4bd.png)
+![image](https://user-images.githubusercontent.com/102111459/160007636-29fac993-deaf-44ad-b13e-8f3f94cf0e73.png)
