@@ -10,7 +10,7 @@
 ![image](https://user-images.githubusercontent.com/102111459/159885092-ec6e2eb9-a89c-4be0-bc06-6e7e3871443e.png)
 #### Côté Serveur  
 ![image](https://user-images.githubusercontent.com/102111459/159884909-eaaf7728-4e95-4d6d-973a-e23be3ee8919.png)
-## 2. Communication entre serveur et plusieurs client
+## 2. Communication entre serveur et plusieurs clients
 #### Côté Serveur  
 ![image](https://user-images.githubusercontent.com/102111459/159902917-4171b3c9-ea1e-4af8-b5e1-2b6df918ae20.png)
 #### Côté Client 1  
